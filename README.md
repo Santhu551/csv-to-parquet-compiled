@@ -61,7 +61,7 @@ The converter automatically discovers CSV files when a directory is provided as 
 Run:
 
 ```bash
-python3.12 main.py <INPUT_PATH> <OUTPUT_PATH> <DATATYPE_JSON> <TIKA_HOST>
+python3.12 main.pyc <INPUT_PATH> <OUTPUT_PATH> <DATATYPE_JSON> <TIKA_HOST>
 ```
 
 Example:
